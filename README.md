@@ -49,4 +49,15 @@ card:            strength:
 ![image](https://user-images.githubusercontent.com/34386661/155803672-e1dd29cb-a91b-4598-9c3d-47548fd50a31.png)
 
 
+In the game, there are also implemented 3 bots which can be played against or you can see fight between them.
+Each bot has his different strategy of playing.
+Bots:
+- Agressive bot
+- Passive bot
+- Random bot
+
+![image](https://user-images.githubusercontent.com/34386661/155804012-c1d0521a-a7cb-4298-858a-70786650c219.png)
+
+
+
 
