@@ -1,0 +1,5 @@
+﻿  mądra wojna final version(no strings).cpp
+C:\POLITECHNIKA\PG SEM 1\PROJEKT PP 1\mądra wojna final version(no strings)\mądra wojna final version(no strings).cpp(1076,12): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+C:\POLITECHNIKA\PG SEM 1\PROJEKT PP 1\mądra wojna final version(no strings)\mądra wojna final version(no strings).cpp(951): warning C4715: "Game_SMART::peaceBot”: niewszystkie ścieżki kodu zwracają wartość
+C:\POLITECHNIKA\PG SEM 1\PROJEKT PP 1\mądra wojna final version(no strings)\mądra wojna final version(no strings).cpp(925): warning C4715: "Game_SMART::battleBot”: niewszystkie ścieżki kodu zwracają wartość
+  mądra wojna final version(no strings).vcxproj -> C:\POLITECHNIKA\PG SEM 1\PROJEKT PP 1\mądra wojna final version(no strings)\Debug\mądra wojna final version(no strings).exe
