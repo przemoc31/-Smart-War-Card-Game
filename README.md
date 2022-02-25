@@ -1,5 +1,7 @@
 "# -Smart-War-Card-Game" 
 
+Programming language: C/C++
+
 Smart war is a two-player card game. One deck of 52 cards is used for the game. 
 Before the game starts, the deck is shuffled and divided into 2 equal piles - each player receives 26 cards.
 Players do not have their own pile of cards. How do the turns look like?
